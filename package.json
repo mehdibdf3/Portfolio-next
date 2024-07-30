@@ -1,0 +1,41 @@
+{
+  "name": "portfolionext",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "css-loader": "^7.1.2",
+    "emailjs-com": "^3.2.0",
+    "next": "^14.2.5",
+    "next-compose-plugins": "^2.2.1",
+    "next-images": "^1.8.5",
+    "next-pdf": "^0.0.1",
+    "next-transpile-modules": "^10.0.1",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.4",
+    "react-dom": "^18.3.1",
+    "react-github-calendar": "^4.1.6",
+    "react-icons": "^4.12.0",
+    "react-parallax-tilt": "^1.5.1",
+    "react-pdf": "^9.1.0",
+    "react-rating-stars-component": "^2.2.0",
+    "react-router-dom": "^6.4.2",
+    "react-toastify": "^9.0.8",
+    "react-tsparticles": "^2.0.0",
+    "style-loader": "^4.0.0",
+    "typewriter-effect": "^2.19.0",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "file-loader": "^6.2.0",
+    "postcss": "^8.4.40",
+    "tailwindcss": "^3.4.7"
+  }
+}
