@@ -1,65 +1,63 @@
 # Portfolio-next
 
-Bienvenue dans le dépôt GitHub de mon portfolio, construit avec Next.js. Ce projet sert de vitrine pour mes compétences et expériences professionnelles en tant que développeur.
+# Welcome to my GitHub repository for my portfolio, built with Next.js. This project serves as a showcase of my skills and professional experiences as a developer.
 
-## Aperçu
+## Overview
 
-Ce portfolio a été créé pour présenter mes projets, mon parcours et mes compétences. Il utilise Next.js pour une expérience utilisateur rapide et réactive.
+# This portfolio was created to showcase my projects, career path, and skills. It uses Next.js for a fast and responsive user experience.
 
-## Technologies Utilisées
+## Technologies Used
 
-- **Next.js**: Framework React pour des applications web modernes.
-- **React**: Bibliothèque JavaScript pour construire des interfaces utilisateur.
-- **Tailwind CSS**: Framework CSS utilitaire pour styliser l'application.
-- **Framer Motion**: Pour les animations fluides et interactives.
+# - **Next.js**: React framework for modern web applications.
+# - **React**: JavaScript library for building user interfaces.
+# - **Tailwind CSS**: Utility-first CSS framework for styling the application.
+# - **Framer Motion**: For smooth and interactive animations.
 
-## Fonctionnalités
+## Features
 
-- Présentation de projets avec des descriptions détaillées.
-- Section à propos de moi, incluant mon parcours et mes compétences.
-- Formulaire de contact pour faciliter la communication.
-- Interface utilisateur réactive et animations interactives.
+# - Project showcase with detailed descriptions.
+# - About me section, including my background and skills.
+# - Contact form to facilitate communication.
+# - Responsive user interface and interactive animations.
 
 ## Installation
 
-Pour exécuter ce projet localement, suivez les étapes ci-dessous :
+# To run this project locally, follow the steps below:
 
-1. Clonez le dépôt :
+# 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/mehdibdf3/Portfolio-next.git
-    ```
+#    ```bash
+#    git clone https://github.com/mehdibdf3/Portfolio-next.git
+#    ```
 
-2. Accédez au répertoire du projet :
+# 2. Navigate to the project directory:
 
-    ```bash
-    cd Portfolio-next
-    ```
+#    ```bash
+#    cd Portfolio-next
+#    ```
 
-3. Installez les dépendances :
+# 3. Install the dependencies:
 
-    ```bash
-    npm install
-    ```
+#    ```bash
+#    npm install
+#    ```
 
-4. Démarrez le serveur de développement :
+# 4. Start the development server:
 
-    ```bash
-    npm run dev
-    ```
+#    ```bash
+#    npm run dev
+#    ```
 
-5. Ouvrez votre navigateur et accédez à `http://localhost:3000` pour voir l'application en action.
-
+# 5. Open your browser and go to `http://localhost:3000` to see the application in action.
 
 ## Contribution
 
-Les contributions sont les bienvenues ! Si vous avez des suggestions ou des corrections, veuillez ouvrir une issue ou soumettre une pull request.
+# Contributions are welcome! If you have suggestions or corrections, please open an issue or submit a pull request.
 
 ## Contact
 
-Pour toute question ou suggestion, n'hésitez pas à me contacter via [LinkedIn](https://www.linkedin.com/in/mehdi-boudiaf-34ab69235/) ou [GitHub](https://github.com/mehdibdf3).
+# For any questions or suggestions, feel free to contact me via [LinkedIn](https://www.linkedin.com/in/mehdi-boudiaf-34ab69235/) or [GitHub](https://github.com/mehdibdf3).
 
----
+# ---
 
-Merci d'avoir visité mon portfolio !
-
+# Thank you for visiting my portfolio!
